@@ -27,5 +27,5 @@ Testleri çalıştırmak için aşağıdaki komutu çalıştırın
   python3 main.py
 ```
 ```bash
-  Otomasyon_HW1.exesa
+  Otomasyon_HW1.exe
 ```
